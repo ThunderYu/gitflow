@@ -1,2 +1,2 @@
 feature3 - edit first time
-modify by feature1
+modify after confliction
