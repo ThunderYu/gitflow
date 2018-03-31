@@ -1,1 +1,2 @@
 feature3 - edit first time
+modify feature by feature2
